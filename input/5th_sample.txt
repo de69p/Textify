@@ -1,0 +1,3 @@
+This is a normal text file.
+Perhaps too normal...
+    Or not normal at all.
